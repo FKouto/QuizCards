@@ -24,8 +24,8 @@
   --font-bold: 700;
   --font-regular: 500;
   --line-height: 30%;
-  --icon-right: url(/assets/Images/Correct.svg);
-  --icon-wrong: url(/assets/Images/Wrong.svg);
+  --icon-right: url(./assets/Images/Correct.svg);
+  --icon-wrong: url(./assets/Images/Wrong.svg);
 }
 body * {
   font-family: "Sora", sans-serif;
