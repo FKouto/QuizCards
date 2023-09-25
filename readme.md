@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="tela de demonstração do Quiz" src=".github/cover.png" width="100%">
+  <img alt="tela de demonstração do Quiz" src=".github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Technologies
