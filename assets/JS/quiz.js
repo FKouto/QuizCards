@@ -205,5 +205,5 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 function finished() {
   window.alert("Parabéns, você terminou o Quiz! \n Score Final: " + countScore);
-  window.location.href = "./quiz.html";
+  window.location.href = "./index.html";
 }
