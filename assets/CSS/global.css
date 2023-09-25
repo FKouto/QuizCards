@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  /* Base */
+  --grey-1: #d9d9d9;
+  --grey-2: #565e6d;
+  --grey-3: #252c3a;
+  --grey-4: #1d2330;
+  --grey-5: #181d28;
+  --grey-6: #161a24;
+  /* Feedback */
+  --green-light: #abf770;
+  --green-dark: #5cad1d;
+  --red-light: #f77070;
+  --red-dark: #ab3030;
+  /* Font */
+  --heading-1: 1.5rem;
+  --heading-2: 1rem;
+  --score: 1.25rem;
+  --answers: 0.75rem;
+  --font-bold: 700;
+  --font-regular: 500;
+  --line-height: 30%;
+  --icon-right: url(/assets/Images/Correct.svg);
+  --icon-wrong: url(/assets/Images/Wrong.svg);
+}
+body * {
+  font-family: "Sora", sans-serif;
+  font-weight: var(--font-regular);
+  color: #f9f9f9;
+}
+body {
+  /* width: 100vw;
+  height: 100vh; */
+  background: #996dff;
+}
